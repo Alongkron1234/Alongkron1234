@@ -147,15 +147,26 @@ Published in IEEE Xplore — TF-IDF + cosine/Euclidean retrieval matching
 
 <div align="center">
 
-### 📊 GitHub Stats
+### 🏆 Achievements & Activities
 
-<img src="https://github-readme-stats.vercel.app/api?username=Alongkron1234&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**📄 IEEE Xplore Publication**
+Published an ASL Sign Language Model — retrieval-based text matching using TF-IDF + cosine/Euclidean similarity
+
+</td>
+<td width="50%" valign="top">
+
+**💡 KBTG Kampus Hackathon 2026**
+Competing in Track 2 (Data Science & Intelligence) — pitching *K-Paced*, an AI-driven cash flow + fraud-detection feature for K PLUS
+
+</td>
+</tr>
+</table>
 
 <br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Alongkron1234&theme=tokyonight&no-frame=true&row=1&column=6" height="100"/>
-
-<br><br>
 
 <a href="https://www.linkedin.com/in/akaewpro/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:alongkron21064@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
