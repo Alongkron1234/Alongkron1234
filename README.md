@@ -90,6 +90,49 @@ I care more about understanding *how* things work than shipping demos — that's
 
 <br>
 
+### 🏆 Achievements & Activities
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**📄 IEEE Xplore Publication**
+Published an ASL Sign Language Model — retrieval-based text matching using TF-IDF + cosine/Euclidean similarity
+
+</td>
+<td width="50%" valign="top">
+
+**💡 KBTG Kampus Hackathon 2026**
+Competing in Track 2 (Data Science & Intelligence) — pitching *K-Paced*, an AI-driven cash flow + fraud-detection feature for K PLUS
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🤖 International Online Hackathon 2025**
+*Explainable AI for Ethical Finance Hackathon* (Super AI Engineer Season 5 × AIAT × SCBX) — built a Financial Analysis Agent using open-source LLMs (Typhoon2) and agentic workflows for explainable, ethical financial decision-making
+
+</td>
+<td width="50%" valign="top">
+
+**🥇 Data Science Project Contest 2023, CMU**
+Gold Medal, Onsite Presentation — *Temperature Prediction* using Prophet, NumPy, and Pandas on Thai Meteorological Department data; learned to handle missing values and work as a team
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+**🏥 NTT DATA Digital Innovation Challenge 2026** — *Healthcare Track* <br>
+In Progress
+
+</td>
+</tr>
+</table>
+
+<br>
+
 ### 🚀 Featured Projects
 
 <table>
@@ -146,27 +189,6 @@ Published in IEEE Xplore — TF-IDF + cosine/Euclidean retrieval matching
 <br>
 
 <div align="center">
-
-### 🏆 Achievements & Activities
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**📄 IEEE Xplore Publication**
-Published an ASL Sign Language Model — retrieval-based text matching using TF-IDF + cosine/Euclidean similarity
-
-</td>
-<td width="50%" valign="top">
-
-**💡 KBTG Kampus Hackathon 2026**
-Competing in Track 2 (Data Science & Intelligence) — pitching *K-Paced*, an AI-driven cash flow + fraud-detection feature for K PLUS
-
-</td>
-</tr>
-</table>
-
-<br>
 
 <a href="https://www.linkedin.com/in/akaewpro/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:alongkron21064@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
